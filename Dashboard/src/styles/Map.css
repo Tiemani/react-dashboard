@@ -1,0 +1,12 @@
+.map-container {
+    padding: 1rem;
+  }
+  
+  .map {
+    height: 400px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }

@@ -1,0 +1,17 @@
+.quick-actions {
+    padding: 1rem;
+  }
+  
+  .quick-actions button {
+    display: block;
+    margin: 0.5rem 0;
+    padding: 0.5rem 1rem;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .quick-actions button:hover {
+    background-color: #0056b3;
+  }

@@ -1,0 +1,21 @@
+.incident-form {
+    padding: 1rem;
+  }
+  
+  .incident-form input {
+    padding: 0.5rem;
+    width: 100%;
+    margin-bottom: 0.5rem;
+  }
+  
+  .incident-form button {
+    padding: 0.5rem 1rem;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .incident-form button:hover {
+    background-color: #218838;
+  }

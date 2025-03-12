@@ -1,0 +1,13 @@
+.reports-pending {
+    padding: 1rem;
+  }
+  
+  .reports-pending ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .reports-pending li {
+    padding: 0.5rem;
+    border-bottom: 1px solid #ccc;
+  }
