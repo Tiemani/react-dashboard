@@ -1,12 +1,9 @@
-.app {
-  display: flex;
-  flex-direction: column;
-  height: 100vh;
-}
+@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-.dashboard {
-  display: grid;
-  grid-template-columns: 2fr 1fr;
-  gap: 1rem;
-  padding: 1rem;
+#map {
+  height: 100%;
+  width: 100%;
 }
